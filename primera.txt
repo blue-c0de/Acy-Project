@@ -1,0 +1,4 @@
+¿Qué es un bug en informática?
+Los bugs informáticos son errores o fallas de un programa o
+ sistema que produce resultados inesperados, es decir, 
+que trabaja de una forma para la que no estaba diseñado originalmente.
